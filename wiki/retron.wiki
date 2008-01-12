@@ -1,20 +1,9 @@
-#summary One-sentence summary of this page.
 #labels Phase-Requirements
-
+summary it's a good game, on java platform
 = Introduction =
 
 retron it's a crossplatform game based on java
 test it, it easy and free.
 sorry but now here's you can't get retron_bot client. (i'll correct it as fast as possible)
-
 you can only play with your friend between network
-
 beware IP's that you shoold enter must be broodcast UDP IP.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
