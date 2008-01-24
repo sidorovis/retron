@@ -1,0 +1,21 @@
+#summary How to run a game.
+
+= Problems and requirements =
+
+Now you can download only bin (jar) file of this game.
+Now you can play only with friends.
+
+You need JVM 1.6.0.0_02 (or something like this).
+
+= Step by step =
+
+ * Download retron.jar: http://retron.googlecode.com/files/retron.jar
+ * Copy it on two computers that placed in one local network ( call them 192.168.0.1 and 192.168.0.2).
+
+ * Run Program on 192.168.0.1 and on 192.168.0.2.
+ * Run "Server" on 192.168.0.1, start it with "192.168.255.255" Broodcast param.
+ * Connect by clients to "192.168.255.255" like adres.
+
+ * Push Start on "Server".
+
+Go!.
